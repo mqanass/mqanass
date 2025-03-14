@@ -91,32 +91,34 @@
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
-  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
-    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
-  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mqbyit?igsh=MXdqdnpsejluNjJ4aQ%3D%3D&utm_source=qr" target="_blank">
+    <img align="center" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
-    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
 
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/juejin.svg" />
-  </a> &nbsp;&nbsp;
+  <a href="https://github.com/mqanass" target="_blank">
+    <img align="center" alt="mqanass | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a> &nbsp;&nbsp;
 
-  <a href="mailto:guochengli1997@gmail.com" >
+
+  <a href="https://www.linkedin.com/in/mohamad-qanass-635017256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+
+
+  <a href="mailto:mohamad.qanass@gmail.com" >
     <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
 <p>
 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 ashu-guo
+  😍 Thanks for visiting my profile! Have a nice day! 😉 <br/>
+  &copy; 2025 mqanass. All rights reserved.
 </div>
-
 
 ---
 
-Credit: [ashu-guo](https://github.com/ashu-guo)
+Credit: [mqanass](https://mqanass.github.io/My-Website/)
 
-Last Edited on 03/01/2024
+Last Edited on 14/03/2025
