@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning webgl and threejs
 - 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
 - 🤔 I’m looking for help with Open source Contribution.
-- ⚙ I use daily: .JS, .HTML5, .CSS3.
+- ⚙ I use daily: .JS, .HTML5, .CSS3. .React.
 - 💬 Ping me about **fullstack, **development.
 
 <td width="50%" align="center">
