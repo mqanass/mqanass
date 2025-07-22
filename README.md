@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mohamad;This +is+me!!!;Welcome+to+my+profile!" alt="Title">Mo Qanass</img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mohamad;This+is+me!!!;Welcome+to+my+profile!" alt="Title">
+  <br>
+  <strong>Mo Qanass</strong>
 </div>
-
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
