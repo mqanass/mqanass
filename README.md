@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
 - 🤔 I’m looking for help with open-source contributions.
 - ⚙ I use daily: .JS, .HTML5, .CSS3. .React.
-- 💬 Ping me about full-stack, development.
+- 💬 Ping me about ### `Fullstack`, development.
 
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
