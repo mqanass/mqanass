@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on webGIS Development.
 - 🌱 I’m currently learning WebGL and Three.js
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
+- 👯 I’m looking to collaborate with Fullstack Web and `Frontend` visualization Developers.
 - 🤔 I’m looking for help with open-source contributions.
 - ⚙ I use daily: .JS, .HTML5, .CSS3. .React.
 - 💬 Ping me about `Fullstack`, development.
