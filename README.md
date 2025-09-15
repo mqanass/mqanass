@@ -92,9 +92,10 @@
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
-  <a href="https://www.instagram.com/mqbyit?igsh=MXdqdnpsejluNjJ4aQ%3D%3D&utm_source=qr" target="_blank">
-    <img align="center" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-</a>
+  <!-- First account -->
+  <a href="https://www.instagram.com/963m.q?igsh=N3hubHc0dXl2bnRj&utm_source=qr" target="_blank">
+    <img align="center" alt="Instagram 963m.q" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+  </a>
 
 
   <a href="https://github.com/mqanass" target="_blank">
