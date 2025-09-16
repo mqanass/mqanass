@@ -115,7 +115,7 @@
 
 
 <div align="center">
-  😍 Thanks for visiting my profile! Have a nice day!  <br/>
+  😍 Thanks for visiting my profile! Have a nice day:)  <br/>
   &copy; 2025 mqanass. All rights reserved.
 </div>
 
