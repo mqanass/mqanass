@@ -1,126 +1,191 @@
+<!-- Creative Header with Animated Gradient -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mohamad;This+is+me!!!;Welcome+to+my+profile!" alt="Title">
-  <br>
-  <strong>Mo Qanass</strong>
-</div>
-
-### <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-- 🔭 I’m currently working on webGIS Development.
-- 🌱 I’m currently learning WebGL and Three.js
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with open-source contributions.
-- ⚙ I use daily: .JS, .HTML5, .CSS3. .React.
-- 💬 Ping me about `Fullstack` development.
-
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
-
-### <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
-
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python"
-                width="40"
-                height="40"
-        />
-    </a>
-</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashu-guo&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-guo&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashu-guo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
-
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
-
-<p align="center">
-  <!-- First account -->
-  <a href="https://www.instagram.com/963m.q?igsh=N3hubHc0dXl2bnRj&utm_source=qr" target="_blank">
-    <img align="center" alt="Instagram 963m.q" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+  <a href="https://mqanass.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mo%20Qanass&fontSize=80&fontColor=ffffff&italic=true&desc=WebGIS%20Developer%20%7C%20Three.js%20Enthusiast&descSize=20&descAlignY=50&descAlign=50&animation=twinkle" alt="Header Banner">
   </a>
+</div>
 
+<br>
 
-  <a href="https://github.com/mqanass" target="_blank">
-    <img align="center" alt="mqanass | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a> &nbsp;&nbsp;
+<!-- Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&background=0D111700&center=true&vCenter=true&repeat=false&width=700&height=100&lines=%F0%9F%9A%80+Building+the+3D+Web;🌍+webGIS+Developer+%26+Visualizer;⚡+WebGL+%2B+Three.js+Explorer;🎨+Turning+data+into+immersive+experiences" alt="Typing SVG">
+</div>
 
+<br>
 
-  <a href="https://www.linkedin.com/in/mohamad-qanass-635017256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-</a>
-
-
-  <a href="mailto:mohamad.qanass@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
-
+<!-- Creative About Section with Glassmorphism Style -->
+## 🎭 Welcome to My Digital Universe
 
 <div align="center">
-  😍 Thanks for visiting my profile! Have a nice day:)  <br/>
-  &copy; 2025 mqanass. All rights reserved.
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 The Developer Behind the Magic
+
+```javascript
+const mo = {
+  pronouns: "He/Him",
+  location: "🌍 Earth",
+  passion: "3D Web & GIS",
+  mission: "Bridge reality & digital worlds",
+  superpower: "Making maps come alive",
+  currentFocus: ["WebGIS", "Three.js", "WebGL"],
+  tools: ["JavaScript", "React", "Python"],
+  dream: "Create immersive geo-experiences"
+};
+```
+
+**🚀 What I Do:**
+- 🗺️ Crafting interactive **webGIS** solutions
+- 🎮 Building **3D visualizations** with Three.js
+- 🌐 Developing **full-stack** web applications
+- 🎨 Transforming complex data into **visual stories**
+
+**🤝 Let's Collaborate If:**
+- You're building something in **geospatial tech**
+- You need **3D web visualizations**
+- You want to push **web boundaries** together
+
+</td>
+<td width="50%" align="center">
+
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkYT1tZXRyaWNfaW50ZXJuYWwmdj1lYmxvYi9pbWFnZV9yZWZlcmVuY2VzJmN0PWc/L1R1TVThqceM/giphy.gif)
+
+<!-- Rotating Tech Badges -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,threejs,python,git,html,css,nodejs&perline=4&theme=dark" alt="Tech Stack">
 </div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Animated Skills Section -->
+## 🛠️ My Arsenal of Creation
+
+<div align="center">
+
+### Core Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,threejs,webgl,html,css,python,git,github,nodejs,npm,docker,vscode,figma&theme=dark)](https://skillicons.dev)
+
+### Learning Journey
+
+```mermaid
+graph LR
+    A[HTML/CSS/JS] --> B[React & Frontend]
+    B --> C[Three.js & WebGL]
+    C --> D[webGIS Mastery]
+    D --> E[Immersive 3D Web]
+    style A fill:#f9d71c,stroke:#333,stroke-width:2px
+    style B fill:#61dafb,stroke:#333,stroke-width:2px
+    style C fill:#ff6b6b,stroke:#333,stroke-width:2px
+    style D fill:#4ecdc4,stroke:#333,stroke-width:2px
+    style E fill:#a55eea,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+<br>
+
+<!-- Stats with Creative Layout -->
+## 📊 Code Chronicles
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mqanass&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mqanass&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&langs_count=6&layout=compact)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=mqanass&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&dates=FFFFFF)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Contribution Graph Enhancement -->
+## 🐍 GitHub Activity Snake
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/create-commit-graph?username=mqanass&theme=tokyonight" alt="Commit Graph">
+  
+  ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+</div>
+
+<br>
+
+<!-- Creative Quote Section -->
+## 💭 Words to Code By
+
+<div align="center">
+  
+> *"The web is becoming a 3D canvas. I'm here to paint with geography."* — Mo
+
+![Quote Decoration](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
+
+</div>
+
+<br>
+
+<!-- Connect Section with Style -->
+## 🌟 Let's Create Something Epic Together
+
+<div align="center">
+
+### Find Me Across the Digital Realm
+
+[![GitHub](https://img.shields.io/badge/GitHub-mqanass-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/mqanass)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20Qanass-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-qanass-635017256)
+[![Instagram](https://img.shields.io/badge/Instagram-%40963m.q-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/963m.q)
+[![Gmail](https://img.shields.io/badge/Gmail-mohamad.qanass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.qanass@gmail.com)
+
+<br>
+
+### 🚀 Open For
+
+| Opportunities | Status |
+|--------------|--------|
+| **WebGIS Projects** | ✅ Available |
+| **Three.js Collabs** | ✅ Excited |
+| **Open Source** | ✅ Contributing |
+| **Fullstack Roles** | ✅ Exploring |
+
+</div>
+
+<br>
+
+<!-- Footer with Animation -->
+<div align="center">
 
 ---
 
-Credit: [mqanass](https://mqanass.github.io/My-Website/)
+<img src="https://profile-counter.glitch.me/mqanass/count.svg" alt="Visitor Count" />
 
-Last Edited on 14/03/2025
+**Thanks for exploring my corner of the internet!** 🌌  
+*Every visit adds a star to my digital universe.* ⭐
+
+Built with 💙 and lots of ☕ by **Mo Qanass**  
+&copy; 2025 | Crafted in the intersection of code & creativity
+
+<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/footer-wave.svg" width="100%" height="50px" alt="Footer Wave">
+
+</div>
