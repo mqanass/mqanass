@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 📦 SECTION 2: PRODUCTS & SERVICES
+### 📦 SECTION 2: PRODUCTS & SERVICES
 
 </div>
 
