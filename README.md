@@ -73,7 +73,7 @@ Site selection, territory planning, market analysis powered by spatial data.
 
 <div align="center">
 
-## ⚙️ SECTION 3: HOW I WORK (PROCESS)
+### ⚙️ SECTION 3: HOW I WORK (PROCESS)
 
 </div>
 
