@@ -98,7 +98,7 @@ graph LR
 
 <div align="center">
 
-## 🛠️ SECTION 4: TOOLS & TECHNOLOGIES
+### 🛠️ SECTION 4: TOOLS & TECHNOLOGIES
 
 **Frontend Visualization:**
 <img src="https://skillicons.dev/icons?i=react,leaflet,mapbox,threejs,d3&theme=light" alt="Frontend Tools">
