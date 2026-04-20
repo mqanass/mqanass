@@ -117,7 +117,7 @@ graph LR
 
 <div align="center">
 
-## 📈 SECTION 5: TRACTION & METRICS
+### 📈 SECTION 5: TRACTION & METRICS
 
 </div>
 
