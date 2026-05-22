@@ -59,7 +59,7 @@ Transform raw coordinates into insights. Heat maps, clustering, proximity analys
 </td>
 <td width="33%" align="center">
 
-### 🏢 Location Intelligence
+## 🏢 Location Intelligence
 Site selection, territory planning, market analysis powered by spatial data.
 
 **[Explore Tools →](#)**
