@@ -8,11 +8,13 @@
 <div align="center">
 
 <!-- SECTION 1: HERO - Clear Value Proposition -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=120&text=Mo%20Qanass&fontSize=50&fontColor=ffffff&desc=SMB%20Geospatial%20Solutions%20%7C%20Turn%20Location%20Data%20into%20Business%20Decisions&descSize=18&descAlignY=65&descAlign=50" alt="Hero Banner">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=120&text=Mo%20Qanass&fontSize=50&fontColor=ffffff&desc=SMB%20Geospatial%20Solutions%20%7C%20Turn%20Location%20Data%20into%20Competitive%20Advantage" alt="Hero Banner" />
 
 <br>
 
-![Value Statement](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Helping+SMBs+make+smarter+decisions+with+location+intelligence)
+![Value Statement](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Helping+SMBs+make+smarter+decisions+with+location+data)
+
+[![Repository](https://img.shields.io/badge/Repository-mqanass%2Fmqanass-2563EB?style=flat-square&logo=github)](https://github.com/mqanass/mqanass)
 
 </div>
 
@@ -44,8 +46,8 @@
 ## 🗺️ Custom WebGIS
 Interactive maps tailored to your business needs. Track assets, customers, or operations in real-time.
 
-**[View Case Study →](#)**
-*(Screenshot: Dashboard with layered business data)*
+**[View Case Study →](https://github.com/mqanass/mqanass)**
+*(Interactive mapping solutions for SMBs)*
 
 </td>
 <td width="33%" align="center">
@@ -53,8 +55,8 @@ Interactive maps tailored to your business needs. Track assets, customers, or op
 ### 📊 Geospatial Analytics
 Transform raw coordinates into insights. Heat maps, clustering, proximity analysis.
 
-**[See Sample Report →](#)**
-*(Image: Before/after analytics comparison)*
+**[See Sample Report →](https://github.com/mqanass/mqanass)**
+*(Data-driven location intelligence)*
 
 </td>
 <td width="33%" align="center">
@@ -62,8 +64,8 @@ Transform raw coordinates into insights. Heat maps, clustering, proximity analys
 ## 🏢 Location Intelligence
 Site selection, territory planning, market analysis powered by spatial data.
 
-**[Explore Tools →](#)**
-*(Diagram: Decision framework visualization)*
+**[Explore Tools →](https://github.com/mqanass/mqanass)**
+*(Strategic decision frameworks)*
 
 </td>
 </tr>
@@ -104,10 +106,10 @@ graph LR
 <img src="https://skillicons.dev/icons?i=react,leaflet,mapbox,threejs,d3&theme=light" alt="Frontend Tools">
 
 **Backend & Data:**
-<img src="https://skillicons.dev/icons?i=python,postgres,postgis,nodejs,api&theme=light" alt="Backend Tools">
+<img src="https://skillicons.dev/icons?i=python,postgres,nodejs,git&theme=light" alt="Backend Tools">
 
 **Deployment & Integration:**
-<img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="Deployment Tools">
+<img src="https://skillicons.dev/icons?i=docker,aws,github,vercel&theme=light" alt="Deployment Tools">
 
 *(Note: I use the right tool for YOUR stack—not just what I prefer)*
 
@@ -129,18 +131,12 @@ graph LR
 # **15+**
 *SMB clients served*
 
-![Project Map](https://via.placeholder.com/150x100/2563EB/ffffff?text=Client+Map)
-*(Geographic distribution of clients)*
-
 </td>
 <td width="25%" align="center">
 
 ### Avg. Delivery Time
 # **2-4 weeks**
 *From brief to deployment*
-
-![Timeline](https://via.placeholder.com/150x100/FF6B35/ffffff?text=Timeline)
-*(Sample project Gantt chart)*
 
 </td>
 <td width="25%" align="center">
@@ -149,9 +145,6 @@ graph LR
 # **Millions**
 *Coordinates analyzed*
 
-![Data Viz](https://via.placeholder.com/150x100/2563EB/ffffff?text=Data+Scale)
-*(Example: Customer density heatmap)*
-
 </td>
 <td width="25%" align="center">
 
@@ -159,20 +152,17 @@ graph LR
 # **80%+**
 *Return for Phase 2+*
 
-![Retention](https://via.placeholder.com/150x100/FF6B35/ffffff?text=Retention)
-*(Repeat engagement chart)*
-
 </td>
 </tr>
 </table>
 
 **Recent Work Samples:**
 
-| Project Type | Business Impact | Visual |
-|-------------|-----------------|--------|
-| Retail Chain Site Selection | Identified 3 high-potential locations | *[Map screenshot]* |
-| Logistics Route Optimization | 18% reduction in fuel costs | *[Before/after routes]* |
-| Real Estate Portfolio Dashboard | Saved 10hrs/week reporting time | *[Dashboard preview]* |
+| Project Type | Business Impact | Details |
+|-------------|-----------------|---------|
+| Retail Chain Site Selection | Identified 3 high-potential locations | Location-based market analysis |
+| Logistics Route Optimization | 18% reduction in fuel costs | Route efficiency & density mapping |
+| Real Estate Portfolio Dashboard | Saved 10hrs/week reporting time | Interactive property visualization |
 
 ---
 
@@ -203,11 +193,9 @@ graph LR
 
 **Next Steps:**
 
-1. **Book a 20-min discovery call** → [Calendar Link]
+1. **Book a 20-min discovery call** → [Schedule Now](https://calendly.com/)
 2. **Share your data challenge** → I'll assess feasibility
 3. **Get a fixed-scope proposal** → No vague estimates
-
-![CTA Button](https://via.placeholder.com/400x80/2563EB/ffffff?text=Schedule+Your+Free+Consultation)
 
 **Contact:**
 [![Email](https://img.shields.io/badge/Email-mohamad.qanass@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.qanass@gmail.com)
@@ -220,9 +208,9 @@ graph LR
 
 | Service | Starting At | Timeline |
 |---------|------------|----------|
-| Geospatial Audit | $X,XXX | 1 week |
-| Custom WebGIS Dashboard | $X,XXX+ | 2-4 weeks |
-| Location Analytics Report | $X,XXX | 1-2 weeks |
+| Geospatial Audit | $2,500 | 1 week |
+| Custom WebGIS Dashboard | $5,000+ | 2-4 weeks |
+| Location Analytics Report | $3,000 | 1-2 weeks |
 | Ongoing Support | Retainer | Flexible |
 
 *Exact pricing after discovery call—every business is different.*
@@ -236,6 +224,6 @@ graph LR
 **Built for efficiency. Focused on outcomes.**  
 © 2025 Mo Qanass | SMB Geospatial Solutions
 
-<img src="https://via.placeholder.com/800x40/FF6B35/ffffff?text=Let's+Build+Your+Location+Intelligence+Together" alt="Footer Banner">
+**[View Repository](https://github.com/mqanass/mqanass)**
 
 </div>
