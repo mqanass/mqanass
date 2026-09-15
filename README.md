@@ -20,7 +20,7 @@
 
 ---
 
-### 📍 SECTION 1: WHAT I SOLVE FOR BUSINESSES
+## 📍 SECTION 1: WHAT I SOLVE FOR BUSINESSES
 
 | Business Challenge | My Solution | Outcome |
 |-------------------|-------------|---------|
