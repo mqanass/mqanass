@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**📍 turning location data into business magic**&nbsp;&nbsp;**🗺️**
+***📍 turning location data into business magic**&nbsp;&nbsp;**🗺️**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2563EB&width=400&lines=Geospatial+Solutions+for+SMBs;Custom+WebGIS+Dashboards;Location+Intelligence" align="right" width="380">
 
