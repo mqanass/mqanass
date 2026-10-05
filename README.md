@@ -10,7 +10,7 @@
 
 <br>
 
-**What I Do:**
+***What I Do:**
 - 🎯 Transform raw coordinates into actionable insights
 - 🌍 Build interactive maps that actually tell your story
 - 📊 Design geospatial dashboards for data-driven decisions
